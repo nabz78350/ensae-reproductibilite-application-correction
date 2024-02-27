@@ -1,5 +1,7 @@
 # Probabilité de survie sur le Titanic [![Construction image Docker](https://github.com/ensae-reproductibilite/application-correction/actions/workflows/prod.yml/badge.svg)](https://github.com/ensae-reproductibilite/application-correction/actions/workflows/prod.yml)
 
+
+okok
 Pour pouvoir utiliser ce projet, il 
 est recommandé de créer un fichier `config.yaml`
 ayant la structure suivante:
